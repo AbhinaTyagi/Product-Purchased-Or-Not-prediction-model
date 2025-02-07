@@ -3,6 +3,8 @@ In this project i use 3 algorithms
 1. LogisticRegression
 2. DecisionTreeClassifier
 3. KNeighborsClassifier
+
+
 I perfrom the steps given below for the project:
 Step 1:Data Exploration  (shape, info(),describe(),isnull().sum())
 Step 2: Data Cleaning
