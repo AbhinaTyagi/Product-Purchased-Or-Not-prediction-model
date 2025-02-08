@@ -27,3 +27,5 @@ Step 7:Hyperparameter Tunning (sklearn.model_selection , RandomizedSeacrchCV)
 Step 8:Training our all three models by using pipeline
 
 Step 9: Performance Evaluation (sklearn.metrics , accuracy_score)
+
+And lastly i create a pickle file("Product_Purchased_OR_not.pkl") whcih you can use to predict the car price to test the data
